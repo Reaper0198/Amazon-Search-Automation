@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-09-30T10:05:17 IST" name="Suite" finished-at="2025-09-30T10:05:35 IST" duration-ms="17996">
+    <groups>
+    </groups>
+    <test started-at="2025-09-30T10:05:17 IST" name="EdgeTest" finished-at="2025-09-30T10:05:34 IST" duration-ms="17487">
+      <class name="miniProject.SearchAndFilterTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:miniProject.SearchAndFilterTest@385e9564]" started-at="2025-09-30T10:05:17 IST" name="setUp" finished-at="2025-09-30T10:05:21 IST" duration-ms="4394" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="openBrowser(java.lang.String)[pri:1, instance:miniProject.SearchAndFilterTest@385e9564]" started-at="2025-09-30T10:05:21 IST" name="openBrowser" finished-at="2025-09-30T10:05:25 IST" duration-ms="4036" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="logTestResult(java.lang.String,org.testng.ITestResult)[pri:0, instance:miniProject.SearchAndFilterTest@385e9564]" started-at="2025-09-30T10:05:25 IST" name="logTestResult" finished-at="2025-09-30T10:05:25 IST" duration-ms="14" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=openBrowser status=SUCCESS method=SearchAndFilterTest.openBrowser(java.lang.String)[pri:1, instance:miniProject.SearchAndFilterTest@385e9564] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logTestResult -->
+        <test-method signature="searchTest()[pri:2, instance:miniProject.SearchAndFilterTest@385e9564]" started-at="2025-09-30T10:05:25 IST" name="searchTest" finished-at="2025-09-30T10:05:29 IST" duration-ms="4350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method is-config="true" signature="logTestResult(java.lang.String,org.testng.ITestResult)[pri:0, instance:miniProject.SearchAndFilterTest@385e9564]" started-at="2025-09-30T10:05:29 IST" name="logTestResult" finished-at="2025-09-30T10:05:29 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=searchTest status=SUCCESS method=SearchAndFilterTest.searchTest()[pri:2, instance:miniProject.SearchAndFilterTest@385e9564] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logTestResult -->
+        <test-method signature="searchMsgTest()[pri:3, instance:miniProject.SearchAndFilterTest@385e9564]" started-at="2025-09-30T10:05:29 IST" name="searchMsgTest" finished-at="2025-09-30T10:05:29 IST" duration-ms="70" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchMsgTest -->
+        <test-method is-config="true" signature="logTestResult(java.lang.String,org.testng.ITestResult)[pri:0, instance:miniProject.SearchAndFilterTest@385e9564]" started-at="2025-09-30T10:05:29 IST" name="logTestResult" finished-at="2025-09-30T10:05:29 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=searchMsgTest status=SUCCESS method=SearchAndFilterTest.searchMsgTest()[pri:3, instance:miniProject.SearchAndFilterTest@385e9564] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logTestResult -->
+        <test-method signature="checkSortTest()[pri:4, instance:miniProject.SearchAndFilterTest@385e9564]" started-at="2025-09-30T10:05:29 IST" name="checkSortTest" finished-at="2025-09-30T10:05:33 IST" duration-ms="3502" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkSortTest -->
+        <test-method is-config="true" signature="logTestResult(java.lang.String,org.testng.ITestResult)[pri:0, instance:miniProject.SearchAndFilterTest@385e9564]" started-at="2025-09-30T10:05:33 IST" name="logTestResult" finished-at="2025-09-30T10:05:33 IST" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=checkSortTest status=SUCCESS method=SearchAndFilterTest.checkSortTest()[pri:4, instance:miniProject.SearchAndFilterTest@385e9564] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logTestResult -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:miniProject.SearchAndFilterTest@385e9564]" started-at="2025-09-30T10:05:33 IST" name="tearDown" finished-at="2025-09-30T10:05:34 IST" duration-ms="1027" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="writeLogExcel()[pri:0, instance:miniProject.SearchAndFilterTest@385e9564]" started-at="2025-09-30T10:05:35 IST" name="writeLogExcel" finished-at="2025-09-30T10:05:35 IST" duration-ms="237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- writeLogExcel -->
+      </class> <!-- miniProject.SearchAndFilterTest -->
+    </test> <!-- EdgeTest -->
+    <test started-at="2025-09-30T10:05:17 IST" name="ChromeTest" finished-at="2025-09-30T10:05:35 IST" duration-ms="17996">
+      <class name="miniProject.SearchAndFilterTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:miniProject.SearchAndFilterTest@5dda768f]" started-at="2025-09-30T10:05:17 IST" name="setUp" finished-at="2025-09-30T10:05:21 IST" duration-ms="4394" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="openBrowser(java.lang.String)[pri:1, instance:miniProject.SearchAndFilterTest@5dda768f]" started-at="2025-09-30T10:05:21 IST" name="openBrowser" finished-at="2025-09-30T10:05:25 IST" duration-ms="4323" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="logTestResult(java.lang.String,org.testng.ITestResult)[pri:0, instance:miniProject.SearchAndFilterTest@5dda768f]" started-at="2025-09-30T10:05:25 IST" name="logTestResult" finished-at="2025-09-30T10:05:25 IST" duration-ms="31" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=openBrowser status=SUCCESS method=SearchAndFilterTest.openBrowser(java.lang.String)[pri:1, instance:miniProject.SearchAndFilterTest@5dda768f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logTestResult -->
+        <test-method signature="searchTest()[pri:2, instance:miniProject.SearchAndFilterTest@5dda768f]" started-at="2025-09-30T10:05:25 IST" name="searchTest" finished-at="2025-09-30T10:05:30 IST" duration-ms="5119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method is-config="true" signature="logTestResult(java.lang.String,org.testng.ITestResult)[pri:0, instance:miniProject.SearchAndFilterTest@5dda768f]" started-at="2025-09-30T10:05:30 IST" name="logTestResult" finished-at="2025-09-30T10:05:30 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=searchTest status=SUCCESS method=SearchAndFilterTest.searchTest()[pri:2, instance:miniProject.SearchAndFilterTest@5dda768f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logTestResult -->
+        <test-method signature="searchMsgTest()[pri:3, instance:miniProject.SearchAndFilterTest@5dda768f]" started-at="2025-09-30T10:05:30 IST" name="searchMsgTest" finished-at="2025-09-30T10:05:31 IST" duration-ms="92" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchMsgTest -->
+        <test-method is-config="true" signature="logTestResult(java.lang.String,org.testng.ITestResult)[pri:0, instance:miniProject.SearchAndFilterTest@5dda768f]" started-at="2025-09-30T10:05:31 IST" name="logTestResult" finished-at="2025-09-30T10:05:31 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=searchMsgTest status=SUCCESS method=SearchAndFilterTest.searchMsgTest()[pri:3, instance:miniProject.SearchAndFilterTest@5dda768f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logTestResult -->
+        <test-method signature="checkSortTest()[pri:4, instance:miniProject.SearchAndFilterTest@5dda768f]" started-at="2025-09-30T10:05:31 IST" name="checkSortTest" finished-at="2025-09-30T10:05:34 IST" duration-ms="3432" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkSortTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:miniProject.SearchAndFilterTest@5dda768f]" started-at="2025-09-30T10:05:34 IST" name="tearDown" finished-at="2025-09-30T10:05:35 IST" duration-ms="555" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="logTestResult(java.lang.String,org.testng.ITestResult)[pri:0, instance:miniProject.SearchAndFilterTest@5dda768f]" started-at="2025-09-30T10:05:34 IST" name="logTestResult" finished-at="2025-09-30T10:05:34 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=checkSortTest status=SUCCESS method=SearchAndFilterTest.checkSortTest()[pri:4, instance:miniProject.SearchAndFilterTest@5dda768f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logTestResult -->
+      </class> <!-- miniProject.SearchAndFilterTest -->
+    </test> <!-- ChromeTest -->
+  </suite> <!-- Suite -->
+</testng-results>
